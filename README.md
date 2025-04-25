@@ -71,12 +71,12 @@ The app will launch on `localhost` and you can interact via a web browser.
 ---
 
 ## 🔗 Deployment
-- Live on [Hugging Face Spaces](https://huggingface.co/spaces/) 🚀
+- Live on [Hugging Face Spaces](https://huggingface.co/spaces/anoopreddyyeddula/drug-effectiveness-prediction) 🚀
 
 ---
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Anoop Reddy](https://github.com/your-username)
+Made by [Anoop Reddy](https://github.com/anoopreddyyeddula)
 
 ---
