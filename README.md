@@ -71,7 +71,7 @@ The app will launch on `localhost` and you can interact via a web browser.
 ---
 
 ## 🔗 Deployment
-- Live on [Hugging Face Spaces](https://huggingface.co/spaces/anoopreddyyeddula/drug-effectiveness-prediction) 🚀
+- Live on [Hugging Face Spaces](https://huggingface.co/spaces/anoopreddyyeddula/Fitness-and-Nutrition-Coaching-Assistant) 🚀
 
 ---
 
