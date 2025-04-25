@@ -40,4 +40,4 @@ Otherwise, it runs automatically on Hugging Face Spaces! 🚀
 
 ---
 
-Made with ❤️ by Anoop Reddy
+Made by Anoop Reddy
